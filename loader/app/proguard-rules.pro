@@ -1,2 +1,0 @@
--keep class **JsonAdapter { *; }
--keep class com.squareup.moshi.** { *; }
